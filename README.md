@@ -1,4 +1,6 @@
-# Artificial_Introduction_Team31
+# Artificial_Introduction_Team31  
+ppt連結: https://www.canva.com/design/DAFC-mGvXH4/y8mfPOsTQE_jhjtJewWeAA/view?utm_content=DAFC-mGvXH4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink  
+
 ## Overview of the task
 **Part 1 根據圖片辨別臉型**  
   
