@@ -34,7 +34,7 @@ tqdm==4.64.0
 ```
 
 ## Usage 
-執行main.ipynb  
+**執行main.ipynb**  
 Part1+Part2:原圖以及推薦髮型會先儲存到Barbershop-main中的unprocessed資料夾(分別命名為original_pic_[index], hair0_[index], hair1_[index], hair2_[index]，index代表其在test data中所屬的index值)，接著執行align_face.py(有包含在main.ipynb中)會將圖片儲存至Barbershop-main中的input資料夾，最後執行Barbershop-main中的main.py(有包含在main.ipynb中)，套用成果圖會儲存於Barbershop-main中的output資料夾
 
 ##  Hyperparamenters
